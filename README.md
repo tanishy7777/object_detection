@@ -10,8 +10,7 @@
 
 The input is made out of images taken by a camera on the front of a car.
 
-it is provided by : 
-![](https://github.com/adnaneaabbar/object-detection-for-autonomous-driving/blob/master/assets/images/driveai.png?raw=true)
+it is provided by : drive.ai
 
 The output is a video made out of the same images after being run through the model to draw the bounding boxes.
 
